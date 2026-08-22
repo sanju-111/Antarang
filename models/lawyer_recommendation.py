@@ -1,17 +1,31 @@
+# models/lawyer_recommendation.py - ANTARANG Lawyer Recommendation Engine
+import os
 import pandas as pd
-# pyrefly: ignore [missing-import]
 import numpy as np
 
 class LawyerRecommendationEngine:
-    def __init__(self, data_path):
+    def __init__(self, data_path=None):
         """Load the CSV and clean it."""
+        if data_path is None:
+            base_dir = os.path.dirname(os.path.abspath(__file__))
+            candidate1 = os.path.join(base_dir, '..', 'data', 'lawyer_dataset.csv')
+            candidate2 = os.path.join(os.getcwd(), 'data', 'lawyer_dataset.csv')
+            candidate3 = os.path.join(os.getcwd(), 'lawyer_dataset.csv')
+            
+            for candidate in [candidate1, candidate2, candidate3]:
+                if os.path.exists(candidate):
+                    data_path = candidate
+                    break
+            if data_path is None:
+                data_path = 'data/lawyer_dataset.csv'
+        
         self.df = pd.read_csv(data_path)
         self.df[['lang2','lang3']] = self.df[['lang2','lang3']].fillna('')
         # Convert success_rate to numeric
-        self.df['success_rate'] = pd.to_numeric(self.df['success_rate'])
+        self.df['success_rate'] = pd.to_numeric(self.df['success_rate'], errors='coerce').fillna(0)
     
     def get_specializations(self):
-        """Return the list of all 26 categories for dropdowns."""
+        """Return the list of all categories for dropdowns."""
         return sorted(self.df['specialization'].unique().tolist())
     
     def recommend_lawyers(self, 
@@ -33,7 +47,7 @@ class LawyerRecommendationEngine:
         
         # 2. Filter by location (if provided)
         if location:
-            results = results[results['location'].str.contains(location, case=False)]
+            results = results[results['location'].str.contains(location, case=False, na=False)]
         
         # 3. Filter by languages (if provided)
         if languages:
