@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+# pyrefly: ignore [missing-import]
 from lawyer_recommendation import LawyerRecommendationEngine
 
 # Initialize the engine
