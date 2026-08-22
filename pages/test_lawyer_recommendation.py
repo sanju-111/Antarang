@@ -1,10 +1,15 @@
 import streamlit as st
 import pandas as pd
-# pyrefly: ignore [missing-import]
-from lawyer_recommendation import LawyerRecommendationEngine
+import sys
+import os
 
-# Initialize the engine
-engine = LawyerRecommendationEngine('./lawyer_dataset.csv')
+# Ensure root is in sys.path
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
+from models.lawyer_recommendation import LawyerRecommendationEngine
+
+# Initialize the engine (automatically finds data/lawyer_dataset.csv)
+engine = LawyerRecommendationEngine()
 
 # Title
 st.set_page_config(page_title="FindMyAdvocate - Your Personal Lawyer Finder", layout="wide")
@@ -38,7 +43,7 @@ with col2:
 
 # Get recommendations
 if languages:
-    languages_list = [lang.strip() for lang in languages.split(',')]
+    languages_list = [lang.strip() for lang in languages.split(',') if lang.strip()]
 else:
     languages_list = None
 
