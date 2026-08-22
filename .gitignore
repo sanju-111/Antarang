@@ -5,37 +5,16 @@ __pycache__/
 *.so
 .Python
 env/
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-
-# Virtual Environments
-.venv/
 venv/
+.venv/
 ENV/
-env.bak/
-venv.bak/
 
 # Streamlit
-.streamlit/secrets.toml
-document_checklist.csv
+.streamlit/
 
-# OS
+# IDE & OS
+.vscode/
+.idea/
 .DS_Store
 Thumbs.db
-Desktop.ini
-
-# Root duplicates (if any)
-/mediation_dataset_20cols.csv
+*.bak
