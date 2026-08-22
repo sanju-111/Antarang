@@ -1,0 +1,375 @@
+lawyer_name,specialization,court,years_experience,location,success_rate,contact_phone,contact_email,lang1,lang2,lang3
+Adv. Aarav Sharma,NI Act / Cheque Bounce,District Court Delhi,12,Delhi,82,9876543210,aarav.sharma@legaldemo.in,English,Hindi,NaN
+Adv. Advik Verma,NI Act / Cheque Bounce,District Court Mumbai,8,Mumbai,79,9876543211,advik.verma@legaldemo.in,English,Marathi,Hindi
+Adv. Ananya Reddy,NI Act / Cheque Bounce,District Court Hyderabad,10,Hyderabad,85,9876543212,ananya.reddy@legaldemo.in,English,Telugu,Hindi
+Adv. Arjun Nair,NI Act / Cheque Bounce,District Court Chennai,7,Chennai,74,9876543213,arjun.nair@legaldemo.in,English,Tamil,NaN
+Adv. Arnav Singh,NI Act / Cheque Bounce,District Court Lucknow,4,Lucknow,67,9876543214,arnav.singh@legaldemo.in,English,Hindi,NaN
+Adv. Aryan Patel,NI Act / Cheque Bounce,District Court Ahmedabad,9,Ahmedabad,80,9876543215,aryan.patel@legaldemo.in,English,Gujarati,Hindi
+Adv. Dhruv Kumar,NI Act / Cheque Bounce,District Court Patna,5,Patna,70,9876543216,dhruv.kumar@legaldemo.in,English,Hindi,NaN
+Adv. Diya Iyer,NI Act / Cheque Bounce,District Court Coimbatore,6,Coimbatore,72,9876543217,diya.iyer@legaldemo.in,English,Tamil,NaN
+Adv. Ishaan Joshi,NI Act / Cheque Bounce,District Court Pune,11,Pune,81,9876543218,ishaan.joshi@legaldemo.in,English,Marathi,Hindi
+Adv. Kavya Menon,NI Act / Cheque Bounce,District Court Kochi,9,Kochi,78,9876543219,kavya.menon@legaldemo.in,English,Malayalam,NaN
+Adv. Krish Gupta,NI Act / Cheque Bounce,District Court Chandigarh,6,Chandigarh,73,9876543220,krish.gupta@legaldemo.in,English,Hindi,Punjabi
+Adv. Myra Nair,NI Act / Cheque Bounce,District Court Madurai,8,Madurai,76,9876543221,myra.nair@legaldemo.in,English,Tamil,NaN
+Adv. Rohan Desai,NI Act / Cheque Bounce,District Court Surat,7,Surat,75,9876543222,rohan.desai@legaldemo.in,English,Gujarati,Hindi
+Adv. Sara Khan,NI Act / Cheque Bounce,District Court Bhopal,5,Bhopal,68,9876543223,sara.khan@legaldemo.in,English,Hindi,NaN
+Adv. Shaurya Singh,NI Act / Cheque Bounce,District Court Jaipur,8,Jaipur,77,9876543224,shaurya.singh@legaldemo.in,English,Hindi,NaN
+Adv. Tanvi Reddy,NI Act / Cheque Bounce,District Court Visakhapatnam,6,Visakhapatnam,71,9876543225,tanvi.reddy@legaldemo.in,English,Telugu,NaN
+Adv. Vihaan Sharma,NI Act / Cheque Bounce,District Court Indore,4,Indore,66,9876543226,vihaan.sharma@legaldemo.in,English,Hindi,NaN
+Adv. Zara Khan,NI Act / Cheque Bounce,District Court Nagpur,9,Nagpur,79,9876543227,zara.khan@legaldemo.in,English,Marathi,Hindi
+Adv. Aanya Gupta,NI Act / Cheque Bounce,High Court of Delhi,13,Delhi,84,9876545000,aanya.gupta@legaldemo.in,English,Hindi,NaN
+Adv. Arjun Singh,NI Act / Cheque Bounce,High Court of Bombay,10,Mumbai,81,9876545001,arjun.singh@legaldemo.in,English,Hindi,Marathi
+Adv. Kavya Reddy,NI Act / Cheque Bounce,High Court of Karnataka,11,Bangalore,83,9876545002,kavya.reddy@legaldemo.in,English,Kannada,Hindi
+Adv. Rohan Sharma,NI Act / Cheque Bounce,High Court of Telangana,9,Hyderabad,80,9876545003,rohan.sharma@legaldemo.in,English,Telugu,Hindi
+Adv. Ananya Iyer,NI Act / Cheque Bounce,High Court of Madras,12,Chennai,86,9876545004,ananya.iyer@legaldemo.in,English,Tamil,NaN
+Adv. Aaryan Patel,NI Act / Cheque Bounce,High Court of Gujarat,8,Ahmedabad,78,9876545005,aaryan.patel@legaldemo.in,English,Gujarati,Hindi
+Adv. Ishita Nair,Civil Suits,District Court Delhi,14,Delhi,87,9876545006,ishita.nair@legaldemo.in,English,Hindi,NaN
+Adv. Devansh Sharma,Civil Suits,District Court Mumbai,11,Mumbai,83,9876545007,devansh.sharma@legaldemo.in,English,Marathi,Hindi
+Adv. Aanya Reddy,Civil Suits,District Court Hyderabad,13,Hyderabad,86,9876545008,aanya.reddy@legaldemo.in,English,Telugu,Hindi
+Adv. Ananya Menon,Civil Suits,District Court Chennai,10,Chennai,80,9876545009,ananya.menon@legaldemo.in,English,Tamil,NaN
+Adv. Arjun Kumar,Civil Suits,District Court Lucknow,6,Lucknow,73,9876545010,arjun.kumar@legaldemo.in,English,Hindi,NaN
+Adv. Aryan Desai,Civil Suits,District Court Ahmedabad,9,Ahmedabad,79,9876545011,aryan.desai@legaldemo.in,English,Gujarati,Hindi
+Adv. Dhruv Singh,Civil Suits,District Court Patna,7,Patna,74,9876545012,dhruv.singh@legaldemo.in,English,Hindi,NaN
+Adv. Diya Menon,Civil Suits,District Court Coimbatore,8,Coimbatore,76,9876545013,diya.menon@legaldemo.in,English,Tamil,NaN
+Adv. Ishaan Reddy,Civil Suits,District Court Pune,10,Pune,82,9876545014,ishaan.reddy@legaldemo.in,English,Marathi,Hindi
+Adv. Kavya Nair,Civil Suits,District Court Kochi,9,Kochi,78,9876545015,kavya.nair@legaldemo.in,English,Malayalam,NaN
+Adv. Krish Singh,Civil Suits,District Court Chandigarh,7,Chandigarh,75,9876545016,krish.singh@legaldemo.in,English,Hindi,Punjabi
+Adv. Myra Iyer,Civil Suits,District Court Madurai,6,Madurai,72,9876545017,myra.iyer@legaldemo.in,English,Tamil,NaN
+Adv. Rohan Patel,Civil Suits,District Court Surat,8,Surat,77,9876545018,rohan.patel@legaldemo.in,English,Gujarati,Hindi
+Adv. Sara Reddy,Civil Suits,District Court Visakhapatnam,7,Visakhapatnam,74,9876545019,sara.reddy@legaldemo.in,English,Telugu,NaN
+Adv. Shaurya Kumar,Civil Suits,District Court Jaipur,9,Jaipur,79,9876545020,shaurya.kumar@legaldemo.in,English,Hindi,NaN
+Adv. Tanvi Sharma,Civil Suits,District Court Nagpur,8,Nagpur,76,9876545021,tanvi.sharma@legaldemo.in,English,Marathi,Hindi
+Adv. Vihaan Singh,Civil Suits,District Court Indore,6,Indore,71,9876545022,vihaan.singh@legaldemo.in,English,Hindi,NaN
+Adv. Zara Patel,Civil Suits,District Court Bhopal,5,Bhopal,69,9876545023,zara.patel@legaldemo.in,English,Hindi,NaN
+Adv. Aarav Kumar,Civil Suits,High Court of Delhi,16,Delhi,89,9876545024,aarav.kumar@legaldemo.in,English,Hindi,NaN
+Adv. Ananya Sharma,Civil Suits,High Court of Bombay,13,Mumbai,85,9876545025,ananya.sharma@legaldemo.in,English,Marathi,Hindi
+Adv. Arjun Reddy,Civil Suits,High Court of Karnataka,12,Bangalore,84,9876545026,arjun.reddy@legaldemo.in,English,Kannada,Hindi
+Adv. Kavya Menon,Civil Suits,High Court of Madras,11,Chennai,82,9876545027,kavya.menon@legaldemo.in,English,Tamil,NaN
+Adv. Rohan Nair,Civil Suits,High Court of Telangana,10,Hyderabad,81,9876545028,rohan.nair@legaldemo.in,English,Telugu,Hindi
+Adv. Aarav Reddy,Writ Petitions,High Court of Delhi,17,Delhi,90,9876545029,aarav.reddy@legaldemo.in,English,Hindi,NaN
+Adv. Ananya Singh,Writ Petitions,High Court of Bombay,14,Mumbai,87,9876545030,ananya.singh@legaldemo.in,English,Marathi,Hindi
+Adv. Arjun Kumar,Writ Petitions,High Court of Karnataka,11,Bangalore,82,9876545031,arjun.kumar@legaldemo.in,English,Kannada,NaN
+Adv. Diya Reddy,Writ Petitions,High Court of Telangana,13,Hyderabad,85,9876545032,diya.reddy@legaldemo.in,English,Telugu,Hindi
+Adv. Ishaan Menon,Writ Petitions,High Court of Madras,12,Chennai,83,9876545033,ishaan.menon@legaldemo.in,English,Tamil,NaN
+Adv. Kavya Sharma,Writ Petitions,High Court of Gujarat,10,Ahmedabad,80,9876545034,kavya.sharma@legaldemo.in,English,Gujarati,Hindi
+Adv. Krish Reddy,Writ Petitions,High Court of Andhra Pradesh,14,Vijayawada,86,9876545035,krish.reddy@legaldemo.in,English,Telugu,NaN
+Adv. Myra Singh,Writ Petitions,High Court of Calcutta,11,Kolkata,81,9876545036,myra.singh@legaldemo.in,English,Bengali,Hindi
+Adv. Rohan Menon,Writ Petitions,High Court of Kerala,10,Kochi,79,9876545037,rohan.menon@legaldemo.in,English,Malayalam,NaN
+Adv. Sara Kumar,Writ Petitions,High Court of Rajasthan,13,Jodhpur,84,9876545038,sara.kumar@legaldemo.in,English,Hindi,NaN
+Adv. Shaurya Reddy,Writ Petitions,High Court of Bombay,9,Mumbai,78,9876545039,shaurya.reddy@legaldemo.in,English,Marathi,Hindi
+Adv. Tanvi Nair,Writ Petitions,High Court of Karnataka,8,Bangalore,77,9876545040,tanvi.nair@legaldemo.in,English,Kannada,NaN
+Adv. Vihaan Menon,Writ Petitions,High Court of Madras,10,Chennai,80,9876545041,vihaan.menon@legaldemo.in,English,Tamil,NaN
+Adv. Zara Reddy,Writ Petitions,High Court of Delhi,12,Delhi,83,9876545042,zara.reddy@legaldemo.in,English,Hindi,NaN
+Adv. Aarav Iyer,Writ Petitions,High Court of Telangana,11,Hyderabad,82,9876545043,aarav.iyer@legaldemo.in,English,Telugu,Hindi
+Adv. Ananya Kumar,Writ Petitions,High Court of Gujarat,9,Ahmedabad,79,9876545044,ananya.kumar@legaldemo.in,English,Gujarati,Hindi
+Adv. Arjun Patel,Bail Applications,District Court Delhi,10,Delhi,80,9876545045,arjun.patel@legaldemo.in,English,Hindi,NaN
+Adv. Diya Nair,Bail Applications,District Court Mumbai,8,Mumbai,77,9876545046,diya.nair@legaldemo.in,English,Marathi,Hindi
+Adv. Ishaan Reddy,Bail Applications,District Court Hyderabad,9,Hyderabad,78,9876545047,ishaan.reddy@legaldemo.in,English,Telugu,Hindi
+Adv. Kavya Singh,Bail Applications,District Court Chennai,7,Chennai,74,9876545048,kavya.singh@legaldemo.in,English,Tamil,NaN
+Adv. Krish Menon,Bail Applications,District Court Kochi,6,Kochi,72,9876545049,krish.menon@legaldemo.in,English,Malayalam,NaN
+Adv. Myra Kumar,Bail Applications,District Court Ahmedabad,8,Ahmedabad,76,9876545050,myra.kumar@legaldemo.in,English,Gujarati,Hindi
+Adv. Rohan Singh,Bail Applications,District Court Pune,7,Pune,75,9876545051,rohan.singh@legaldemo.in,English,Marathi,Hindi
+Adv. Sara Nair,Bail Applications,District Court Lucknow,5,Lucknow,68,9876545052,sara.nair@legaldemo.in,English,Hindi,NaN
+Adv. Shaurya Patel,Bail Applications,District Court Jaipur,8,Jaipur,77,9876545053,shaurya.patel@legaldemo.in,English,Hindi,NaN
+Adv. Tanvi Singh,Bail Applications,District Court Chandigarh,6,Chandigarh,71,9876545054,tanvi.singh@legaldemo.in,English,Hindi,Punjabi
+Adv. Vihaan Kumar,Bail Applications,District Court Madurai,6,Madurai,70,9876545055,vihaan.kumar@legaldemo.in,English,Tamil,NaN
+Adv. Zara Nair,Bail Applications,District Court Visakhapatnam,7,Visakhapatnam,73,9876545056,zara.nair@legaldemo.in,English,Telugu,NaN
+Adv. Aarav Patel,Bail Applications,High Court of Delhi,12,Delhi,83,9876545057,aarav.patel@legaldemo.in,English,Hindi,NaN
+Adv. Ananya Singh,Bail Applications,High Court of Bombay,10,Mumbai,81,9876545058,ananya.singh@legaldemo.in,English,Marathi,Hindi
+Adv. Arjun Kumar,Bail Applications,High Court of Karnataka,9,Bangalore,79,9876545059,arjun.kumar@legaldemo.in,English,Kannada,NaN
+Adv. Diya Menon,Bail Applications,High Court of Madras,8,Chennai,76,9876545060,diya.menon@legaldemo.in,English,Tamil,NaN
+Adv. Kavya Reddy,Motor Accident Claims,District Court Delhi,10,Delhi,82,9876545061,kavya.reddy@legaldemo.in,English,Hindi,NaN
+Adv. Krish Sharma,Motor Accident Claims,District Court Mumbai,9,Mumbai,79,9876545062,krish.sharma@legaldemo.in,English,Marathi,Hindi
+Adv. Myra Iyer,Motor Accident Claims,District Court Hyderabad,11,Hyderabad,84,9876545063,myra.iyer@legaldemo.in,English,Telugu,Hindi
+Adv. Rohan Nair,Motor Accident Claims,District Court Chennai,8,Chennai,77,9876545064,rohan.nair@legaldemo.in,English,Tamil,NaN
+Adv. Sara Patel,Motor Accident Claims,District Court Ahmedabad,9,Ahmedabad,80,9876545065,sara.patel@legaldemo.in,English,Gujarati,Hindi
+Adv. Shaurya Singh,Motor Accident Claims,District Court Lucknow,6,Lucknow,72,9876545066,shaurya.singh@legaldemo.in,English,Hindi,NaN
+Adv. Tanvi Menon,Motor Accident Claims,District Court Kochi,13,Kochi,86,9876545067,tanvi.menon@legaldemo.in,English,Malayalam,NaN
+Adv. Vihaan Reddy,Motor Accident Claims,District Court Visakhapatnam,8,Visakhapatnam,78,9876545068,vihaan.reddy@legaldemo.in,English,Telugu,NaN
+Adv. Zara Kumar,Motor Accident Claims,District Court Jaipur,7,Jaipur,74,9876545069,zara.kumar@legaldemo.in,English,Hindi,NaN
+Adv. Aarav Singh,Motor Accident Claims,District Court Chandigarh,8,Chandigarh,76,9876545070,aarav.singh@legaldemo.in,English,Hindi,Punjabi
+Adv. Ananya Nair,Motor Accident Claims,District Court Coimbatore,7,Coimbatore,75,9876545071,ananya.nair@legaldemo.in,English,Tamil,NaN
+Adv. Arjun Reddy,Motor Accident Claims,High Court of Karnataka,10,Bangalore,81,9876545072,arjun.reddy@legaldemo.in,English,Kannada,NaN
+Adv. Diya Sharma,Motor Accident Claims,High Court of Delhi,12,Delhi,84,9876545073,diya.sharma@legaldemo.in,English,Hindi,NaN
+Adv. Ishaan Menon,Motor Accident Claims,High Court of Kerala,11,Kochi,82,9876545074,ishaan.menon@legaldemo.in,English,Malayalam,NaN
+Adv. Kavya Kumar,Motor Accident Claims,High Court of Bombay,9,Mumbai,80,9876545075,kavya.kumar@legaldemo.in,English,Marathi,NaN
+Adv. Krish Singh,Criminal Appeals,High Court of Delhi,14,Delhi,87,9876545076,krish.singh@legaldemo.in,English,Hindi,NaN
+Adv. Myra Reddy,Criminal Appeals,High Court of Bombay,12,Mumbai,84,9876545077,myra.reddy@legaldemo.in,English,Marathi,Hindi
+Adv. Rohan Menon,Criminal Appeals,High Court of Madras,11,Chennai,82,9876545078,rohan.menon@legaldemo.in,English,Tamil,NaN
+Adv. Sara Kumar,Criminal Appeals,High Court of Gujarat,13,Ahmedabad,85,9876545079,sara.kumar@legaldemo.in,English,Gujarati,Hindi
+Adv. Shaurya Nair,Criminal Appeals,High Court of Kerala,10,Kochi,80,9876545080,shaurya.nair@legaldemo.in,English,Malayalam,NaN
+Adv. Tanvi Singh,Criminal Appeals,High Court of Karnataka,12,Bangalore,83,9876545081,tanvi.singh@legaldemo.in,English,Kannada,NaN
+Adv. Vihaan Reddy,Criminal Appeals,High Court of Andhra Pradesh,17,Vijayawada,88,9876545082,vihaan.reddy@legaldemo.in,English,Telugu,Hindi
+Adv. Zara Menon,Criminal Appeals,High Court of Calcutta,11,Kolkata,81,9876545083,zara.menon@legaldemo.in,English,Bengali,Hindi
+Adv. Aarav Kumar,Criminal Appeals,High Court of Rajasthan,15,Jodhpur,86,9876545084,aarav.kumar@legaldemo.in,English,Hindi,NaN
+Adv. Ananya Singh,Criminal Appeals,High Court of Telangana,14,Hyderabad,85,9876545085,ananya.singh@legaldemo.in,English,Telugu,Hindi
+Adv. Arjun Nair,Criminal Appeals,High Court of Delhi,13,Delhi,84,9876545086,arjun.nair@legaldemo.in,English,Hindi,NaN
+Adv. Diya Reddy,Criminal Appeals,High Court of Bombay,10,Mumbai,80,9876545087,diya.reddy@legaldemo.in,English,Marathi,Hindi
+Adv. Ishaan Patel,Criminal Appeals,High Court of Madras,12,Chennai,83,9876545088,ishaan.patel@legaldemo.in,English,Tamil,NaN
+Adv. Kavya Menon,Criminal Appeals,High Court of Kerala,11,Kochi,81,9876545089,kavya.menon@legaldemo.in,English,Malayalam,NaN
+Adv. Aarav Sharma,Family Disputes,District Court Delhi,14,Delhi,87,9876545090,aarav.sharma@legaldemo.in,English,Hindi,NaN
+Adv. Ananya Reddy,Family Disputes,District Court Mumbai,11,Mumbai,83,9876545091,ananya.reddy@legaldemo.in,English,Marathi,Hindi
+Adv. Arjun Nair,Family Disputes,District Court Hyderabad,10,Hyderabad,81,9876545092,arjun.nair@legaldemo.in,English,Telugu,Hindi
+Adv. Diya Menon,Family Disputes,District Court Chennai,9,Chennai,78,9876545093,diya.menon@legaldemo.in,English,Tamil,NaN
+Adv. Ishaan Singh,Family Disputes,District Court Ahmedabad,8,Ahmedabad,77,9876545094,ishaan.singh@legaldemo.in,English,Gujarati,Hindi
+Adv. Kavya Kumar,Family Disputes,District Court Lucknow,6,Lucknow,73,9876545095,kavya.kumar@legaldemo.in,English,Hindi,NaN
+Adv. Krish Reddy,Family Disputes,District Court Kochi,8,Kochi,76,9876545096,krish.reddy@legaldemo.in,English,Malayalam,NaN
+Adv. Myra Nair,Family Disputes,District Court Chandigarh,9,Chandigarh,79,9876545097,myra.nair@legaldemo.in,English,Hindi,Punjabi
+Adv. Rohan Menon,Family Disputes,District Court Pune,10,Pune,80,9876545098,rohan.menon@legaldemo.in,English,Marathi,Hindi
+Adv. Sara Singh,Family Disputes,District Court Jaipur,8,Jaipur,78,9876545099,sara.singh@legaldemo.in,English,Hindi,NaN
+Adv. Shaurya Reddy,Family Disputes,District Court Visakhapatnam,7,Visakhapatnam,75,9876545100,shaurya.reddy@legaldemo.in,English,Telugu,NaN
+Adv. Tanvi Kumar,Family Disputes,District Court Nagpur,8,Nagpur,76,9876545101,tanvi.kumar@legaldemo.in,English,Marathi,Hindi
+Adv. Vihaan Singh,Family Disputes,District Court Indore,6,Indore,72,9876545102,vihaan.singh@legaldemo.in,English,Hindi,NaN
+Adv. Zara Nair,Family Disputes,District Court Bhopal,7,Bhopal,74,9876545103,zara.nair@legaldemo.in,English,Hindi,NaN
+Adv. Aarav Reddy,Family Disputes,High Court of Delhi,16,Delhi,89,9876545104,aarav.reddy@legaldemo.in,English,Hindi,NaN
+Adv. Ananya Menon,Family Disputes,High Court of Bombay,13,Mumbai,86,9876545105,ananya.menon@legaldemo.in,English,Marathi,Hindi
+Adv. Arjun Kumar,Family Disputes,High Court of Karnataka,12,Bangalore,84,9876545106,arjun.kumar@legaldemo.in,English,Kannada,NaN
+Adv. Diya Singh,Family Disputes,High Court of Madras,11,Chennai,82,9876545107,diya.singh@legaldemo.in,English,Tamil,NaN
+Adv. Ishaan Reddy,Family Disputes,High Court of Kerala,10,Kochi,81,9876545108,ishaan.reddy@legaldemo.in,English,Malayalam,NaN
+Adv. Kavya Menon,Family Disputes,High Court of Gujarat,11,Ahmedabad,83,9876545109,kavya.menon@legaldemo.in,English,Gujarati,Hindi
+Adv. Krish Kumar,Family Disputes,High Court of Rajasthan,13,Jodhpur,85,9876545110,krish.kumar@legaldemo.in,English,Hindi,NaN
+Adv. Myra Singh,Family Disputes,High Court of Calcutta,12,Kolkata,83,9876545111,myra.singh@legaldemo.in,English,Bengali,Hindi
+Adv. Rohan Reddy,Family Disputes,High Court of Telangana,14,Hyderabad,86,9876545112,rohan.reddy@legaldemo.in,English,Telugu,Hindi
+Adv. Sara Nair,Family Disputes,High Court of Andhra Pradesh,13,Vijayawada,85,9876545113,sara.nair@legaldemo.in,English,Telugu,NaN
+Adv. Aarav Singh,Property Disputes,District Court Delhi,15,Delhi,88,9876545114,aarav.singh@legaldemo.in,English,Hindi,NaN
+Adv. Ananya Reddy,Property Disputes,District Court Mumbai,12,Mumbai,84,9876545115,ananya.reddy@legaldemo.in,English,Marathi,Hindi
+Adv. Arjun Menon,Property Disputes,District Court Hyderabad,11,Hyderabad,82,9876545116,arjun.menon@legaldemo.in,English,Telugu,Hindi
+Adv. Diya Kumar,Property Disputes,District Court Chennai,10,Chennai,80,9876545117,diya.kumar@legaldemo.in,English,Tamil,NaN
+Adv. Ishaan Singh,Property Disputes,District Court Ahmedabad,9,Ahmedabad,79,9876545118,ishaan.singh@legaldemo.in,English,Gujarati,Hindi
+Adv. Kavya Reddy,Property Disputes,District Court Lucknow,7,Lucknow,74,9876545119,kavya.reddy@legaldemo.in,English,Hindi,NaN
+Adv. Krish Menon,Property Disputes,District Court Kochi,9,Kochi,78,9876545120,krish.menon@legaldemo.in,English,Malayalam,NaN
+Adv. Myra Kumar,Property Disputes,District Court Chandigarh,8,Chandigarh,77,9876545121,myra.kumar@legaldemo.in,English,Hindi,Punjabi
+Adv. Rohan Singh,Property Disputes,District Court Pune,10,Pune,81,9876545122,rohan.singh@legaldemo.in,English,Marathi,Hindi
+Adv. Sara Reddy,Property Disputes,District Court Jaipur,9,Jaipur,79,9876545123,sara.reddy@legaldemo.in,English,Hindi,NaN
+Adv. Shaurya Menon,Property Disputes,District Court Visakhapatnam,8,Visakhapatnam,76,9876545124,shaurya.menon@legaldemo.in,English,Telugu,NaN
+Adv. Tanvi Kumar,Property Disputes,District Court Nagpur,9,Nagpur,78,9876545125,tanvi.kumar@legaldemo.in,English,Marathi,Hindi
+Adv. Vihaan Singh,Property Disputes,District Court Indore,7,Indore,73,9876545126,vihaan.singh@legaldemo.in,English,Hindi,NaN
+Adv. Zara Reddy,Property Disputes,District Court Bhopal,6,Bhopal,72,9876545127,zara.reddy@legaldemo.in,English,Hindi,NaN
+Adv. Aarav Menon,Property Disputes,High Court of Delhi,17,Delhi,90,9876545128,aarav.menon@legaldemo.in,English,Hindi,NaN
+Adv. Ananya Kumar,Property Disputes,High Court of Bombay,14,Mumbai,87,9876545129,ananya.kumar@legaldemo.in,English,Marathi,Hindi
+Adv. Arjun Reddy,Property Disputes,High Court of Karnataka,13,Bangalore,85,9876545130,arjun.reddy@legaldemo.in,English,Kannada,NaN
+Adv. Diya Menon,Property Disputes,High Court of Madras,12,Chennai,83,9876545131,diya.menon@legaldemo.in,English,Tamil,NaN
+Adv. Ishaan Kumar,Property Disputes,High Court of Kerala,11,Kochi,82,9876545132,ishaan.kumar@legaldemo.in,English,Malayalam,NaN
+Adv. Kavya Singh,Property Disputes,High Court of Gujarat,12,Ahmedabad,84,9876545133,kavya.singh@legaldemo.in,English,Gujarati,Hindi
+Adv. Krish Reddy,Property Disputes,High Court of Rajasthan,14,Jodhpur,86,9876545134,krish.reddy@legaldemo.in,English,Hindi,NaN
+Adv. Myra Menon,Property Disputes,High Court of Calcutta,13,Kolkata,84,9876545135,myra.menon@legaldemo.in,English,Bengali,Hindi
+Adv. Rohan Kumar,Property Disputes,High Court of Telangana,15,Hyderabad,87,9876545136,rohan.kumar@legaldemo.in,English,Telugu,Hindi
+Adv. Sara Singh,Property Disputes,High Court of Andhra Pradesh,14,Vijayawada,86,9876545137,sara.singh@legaldemo.in,English,Telugu,NaN
+Adv. Aarav Nair,Property Disputes,High Court of Delhi,16,Delhi,88,9876545138,aarav.nair@legaldemo.in,English,Hindi,NaN
+Adv. Ananya Menon,Property Disputes,High Court of Bombay,13,Mumbai,86,9876545139,ananya.menon@legaldemo.in,English,Marathi,Hindi
+Adv. Arjun Kumar,Property Disputes,High Court of Karnataka,12,Bangalore,84,9876545140,arjun.kumar@legaldemo.in,English,Kannada,NaN
+Adv. Diya Reddy,Property Disputes,High Court of Madras,11,Chennai,82,9876545141,diya.reddy@legaldemo.in,English,Tamil,NaN
+Adv. Ishaan Menon,Property Disputes,High Court of Kerala,10,Kochi,81,9876545142,ishaan.menon@legaldemo.in,English,Malayalam,NaN
+Adv. Kavya Kumar,Property Disputes,High Court of Gujarat,11,Ahmedabad,83,9876545143,kavya.kumar@legaldemo.in,English,Gujarati,Hindi
+Adv. Krish Singh,Property Disputes,High Court of Rajasthan,13,Jodhpur,85,9876545144,krish.singh@legaldemo.in,English,Hindi,NaN
+Adv. Myra Reddy,Property Disputes,High Court of Calcutta,12,Kolkata,83,9876545145,myra.reddy@legaldemo.in,English,Bengali,Hindi
+Adv. Rohan Menon,Property Disputes,High Court of Telangana,14,Hyderabad,86,9876545146,rohan.menon@legaldemo.in,English,Telugu,Hindi
+Adv. Sara Kumar,Property Disputes,High Court of Andhra Pradesh,13,Vijayawada,85,9876545147,sara.kumar@legaldemo.in,English,Telugu,NaN
+Adv. Shaurya Singh,Property Disputes,High Court of Delhi,15,Delhi,88,9876545148,shaurya.singh@legaldemo.in,English,Hindi,NaN
+Adv. Tanvi Reddy,Property Disputes,High Court of Bombay,12,Mumbai,84,9876545149,tanvi.reddy@legaldemo.in,English,Marathi,Hindi
+Adv. Vihaan Kumar,Property Disputes,High Court of Karnataka,11,Bangalore,83,9876545150,vihaan.kumar@legaldemo.in,English,Kannada,NaN
+Adv. Zara Singh,Property Disputes,High Court of Madras,10,Chennai,81,9876545151,zara.singh@legaldemo.in,English,Tamil,NaN
+Adv. Aarav Reddy,Property Disputes,High Court of Kerala,11,Kochi,82,9876545152,aarav.reddy@legaldemo.in,English,Malayalam,NaN
+Adv. Ananya Singh,Property Disputes,High Court of Gujarat,12,Ahmedabad,84,9876545153,ananya.singh@legaldemo.in,English,Gujarati,Hindi
+Adv. Arjun Menon,Property Disputes,High Court of Rajasthan,14,Jodhpur,86,9876545154,arjun.menon@legaldemo.in,English,Hindi,NaN
+Adv. Diya Kumar,Property Disputes,High Court of Calcutta,13,Kolkata,84,9876545155,diya.kumar@legaldemo.in,English,Bengali,Hindi
+Adv. Ishaan Reddy,Property Disputes,High Court of Telangana,15,Hyderabad,87,9876545156,ishaan.reddy@legaldemo.in,English,Telugu,Hindi
+Adv. Kavya Menon,Property Disputes,High Court of Andhra Pradesh,14,Vijayawada,86,9876545157,kavya.menon@legaldemo.in,English,Telugu,NaN
+Adv. Krish Kumar,Property Disputes,High Court of Delhi,16,Delhi,89,9876545158,krish.kumar@legaldemo.in,English,Hindi,NaN
+Adv. Myra Singh,Property Disputes,High Court of Bombay,13,Mumbai,86,9876545159,myra.singh@legaldemo.in,English,Marathi,Hindi
+Adv. Rohan Reddy,Property Disputes,High Court of Karnataka,12,Bangalore,84,9876545160,rohan.reddy@legaldemo.in,English,Kannada,NaN
+Adv. Kabir Verma,Consumer Protection,Consumer Forum Hyderabad,5,Hyderabad,75,9876550001,kabir.verma@legaldemo.in,English,Telugu,Hindi
+Adv. Vivaan Agarwal,Consumer Protection,Consumer Forum Delhi,4,Delhi,73,9876550002,vivaan.agarwal@legaldemo.in,English,Hindi,NaN
+Adv. Reyansh Rao,Consumer Protection,Consumer Forum Hyderabad,5,Hyderabad,70,9876550003,reyansh.rao@legaldemo.in,English,Telugu,Hindi
+Adv. Rahul Rao,Consumer Protection,Consumer Forum Delhi,4,Delhi,74,9876550004,rahul.rao@legaldemo.in,English,Hindi,NaN
+Adv. Shaurya Agarwal,Consumer Protection,Consumer Forum Delhi,4,Delhi,74,9876550005,shaurya.agarwal@legaldemo.in,English,Hindi,NaN
+Adv. Shaurya Verma,Consumer Protection,Consumer Forum Chennai,12,Chennai,83,9876550006,shaurya.verma@legaldemo.in,English,Tamil,NaN
+Adv. Anika Singh,Consumer Protection,Consumer Forum Bangalore,12,Bangalore,82,9876550007,anika.singh@legaldemo.in,English,Kannada,Hindi
+Adv. Ishita Pillai,Consumer Protection,Consumer Forum Chennai,17,Chennai,94,9876550008,ishita.pillai@legaldemo.in,English,Tamil,NaN
+Adv. Dhruv Agarwal,Consumer Protection,Consumer Forum Hyderabad,13,Hyderabad,93,9876550009,dhruv.agarwal@legaldemo.in,English,Telugu,Hindi
+Adv. Vivaan Nair,Consumer Protection,Consumer Forum Hyderabad,12,Hyderabad,92,9876550010,vivaan.nair@legaldemo.in,English,Telugu,Hindi
+Adv. Divya Verma,Consumer Protection,Consumer Forum Delhi,13,Delhi,86,9876550011,divya.verma@legaldemo.in,English,Hindi,NaN
+Adv. Pooja Rao,Labour & Employment Disputes,Labour Court Bangalore,16,Bangalore,94,9876550012,pooja.rao@legaldemo.in,English,Kannada,Hindi
+Adv. Siddharth Chatterjee,Labour & Employment Disputes,Labour Court Hyderabad,9,Hyderabad,79,9876550013,siddharth.chatterjee@legaldemo.in,English,Telugu,Hindi
+Adv. Aryan Agarwal,Labour & Employment Disputes,Labour Court Delhi,8,Delhi,81,9876550014,aryan.agarwal@legaldemo.in,English,Hindi,NaN
+Adv. Aaryan Chatterjee,Labour & Employment Disputes,Labour Court Hyderabad,8,Hyderabad,82,9876550015,aaryan.chatterjee@legaldemo.in,English,Telugu,Hindi
+Adv. Diya Bose,Labour & Employment Disputes,Labour Court Chennai,10,Chennai,79,9876550016,diya.bose@legaldemo.in,English,Tamil,NaN
+Adv. Kavya Mishra,Labour & Employment Disputes,Labour Court Pune,10,Pune,77,9876550017,kavya.mishra@legaldemo.in,English,Marathi,Hindi
+Adv. Arnav Pillai,Labour & Employment Disputes,Labour Court Bangalore,13,Bangalore,94,9876550018,arnav.pillai@legaldemo.in,English,Kannada,Hindi
+Adv. Aaryan Desai,Labour & Employment Disputes,Labour Court Pune,13,Pune,90,9876550019,aaryan.desai@legaldemo.in,English,Marathi,Hindi
+Adv. Aditya Reddy,Labour & Employment Disputes,Industrial Tribunal Mumbai,17,Mumbai,92,9876550020,aditya.reddy@legaldemo.in,English,Marathi,Hindi
+Adv. Neha Reddy,Labour & Employment Disputes,Labour Court Pune,4,Pune,76,9876550021,neha.reddy@legaldemo.in,English,Marathi,Hindi
+Adv. Ishita Agarwal,Labour & Employment Disputes,Labour Court Bangalore,14,Bangalore,92,9876550022,ishita.agarwal@legaldemo.in,English,Kannada,Hindi
+Adv. Saanvi Desai,Labour & Employment Disputes,Labour Court Pune,4,Pune,72,9876550023,saanvi.desai@legaldemo.in,English,Marathi,Hindi
+Adv. Nikhil Nair,Corporate & Commercial Law,High Court of Bombay,11,Delhi,79,9876550024,nikhil.nair@legaldemo.in,English,Hindi,NaN
+Adv. Aanya Singh,Corporate & Commercial Law,High Court of Bombay,15,Delhi,90,9876550025,aanya.singh@legaldemo.in,English,Hindi,NaN
+Adv. Kabir Mishra,Corporate & Commercial Law,High Court of Telangana,5,Telangana,69,9876550026,kabir.mishra@legaldemo.in,English,Telugu,Hindi
+Adv. Kabir Pillai,Corporate & Commercial Law,High Court of Telangana,8,Telangana,75,9876550027,kabir.pillai@legaldemo.in,English,Telugu,Hindi
+Adv. Rahul Joshi,Corporate & Commercial Law,High Court of Telangana,15,Telangana,93,9876550028,rahul.joshi@legaldemo.in,English,Telugu,Hindi
+Adv. Saanvi Iyer,Corporate & Commercial Law,High Court of Karnataka,6,Karnataka,70,9876550029,saanvi.iyer@legaldemo.in,English,Kannada,Hindi
+Adv. Kavya Iyer,Corporate & Commercial Law,High Court of Bombay,14,Delhi,88,9876550030,kavya.iyer@legaldemo.in,English,Hindi,NaN
+Adv. Karan Agarwal,Corporate & Commercial Law,High Court of Delhi,6,Delhi,73,9876550031,karan.agarwal@legaldemo.in,English,Hindi,NaN
+Adv. Anika Pillai,Corporate & Commercial Law,High Court of Karnataka,9,Karnataka,84,9876550032,anika.pillai@legaldemo.in,English,Kannada,Hindi
+Adv. Devansh Singh,Corporate & Commercial Law,Commercial Court Mumbai,15,Mumbai,94,9876550033,devansh.singh@legaldemo.in,English,Marathi,Hindi
+Adv. Arjun Chatterjee,Corporate & Commercial Law,Commercial Court Mumbai,18,Mumbai,94,9876550034,arjun.chatterjee@legaldemo.in,English,Marathi,Hindi
+Adv. Kabir Khan,Banking & Debt Recovery,Debt Recovery Tribunal Chennai,5,Chennai,74,9876550035,kabir.khan@legaldemo.in,English,Tamil,NaN
+Adv. Arnav Kumar,Banking & Debt Recovery,Debt Recovery Tribunal Chennai,11,Chennai,81,9876550036,arnav.kumar@legaldemo.in,English,Tamil,NaN
+Adv. Aaryan Sinha,Banking & Debt Recovery,Debt Recovery Tribunal Delhi,4,Delhi,66,9876550037,aaryan.sinha@legaldemo.in,English,Hindi,NaN
+Adv. Divya Singh,Banking & Debt Recovery,Debt Recovery Tribunal Delhi,12,Delhi,82,9876550038,divya.singh@legaldemo.in,English,Hindi,NaN
+Adv. Nikhil Sharma,Banking & Debt Recovery,Debt Recovery Tribunal Hyderabad,5,Hyderabad,70,9876550039,nikhil.sharma@legaldemo.in,English,Telugu,Hindi
+Adv. Saanvi Singh,Banking & Debt Recovery,Debt Recovery Tribunal Bangalore,14,Bangalore,89,9876550040,saanvi.singh@legaldemo.in,English,Kannada,Hindi
+Adv. Trisha Desai,Banking & Debt Recovery,Debt Recovery Tribunal Hyderabad,11,Hyderabad,80,9876550041,trisha.desai@legaldemo.in,English,Telugu,Hindi
+Adv. Karan Chatterjee,Banking & Debt Recovery,Debt Recovery Tribunal Delhi,11,Delhi,86,9876550042,karan.chatterjee@legaldemo.in,English,Hindi,NaN
+Adv. Aryan Singh,Banking & Debt Recovery,Debt Recovery Tribunal Hyderabad,5,Hyderabad,78,9876550043,aryan.singh@legaldemo.in,English,Telugu,Hindi
+Adv. Vihaan Mishra,Banking & Debt Recovery,Debt Recovery Tribunal Hyderabad,17,Hyderabad,94,9876550044,vihaan.mishra@legaldemo.in,English,Telugu,Hindi
+Adv. Yash Sharma,Banking & Debt Recovery,Debt Recovery Tribunal Mumbai,7,Mumbai,79,9876550045,yash.sharma@legaldemo.in,English,Marathi,Hindi
+Adv. Kavya Pillai,Banking & Debt Recovery,Debt Recovery Tribunal Hyderabad,18,Hyderabad,93,9876550046,kavya.pillai@legaldemo.in,English,Telugu,Hindi
+Adv. Vihaan Bose,Intellectual Property,High Court of Delhi,9,Delhi,77,9876550047,vihaan.bose@legaldemo.in,English,Hindi,NaN
+Adv. Shaurya Pillai,Intellectual Property,High Court of Madras,12,Delhi,93,9876550048,shaurya.pillai@legaldemo.in,English,Hindi,NaN
+Adv. Shaurya Sinha,Intellectual Property,High Court of Madras,16,Delhi,94,9876550049,shaurya.sinha@legaldemo.in,English,Hindi,NaN
+Adv. Tanvi Khan,Intellectual Property,High Court of Bombay,15,Delhi,94,9876550050,tanvi.khan@legaldemo.in,English,Hindi,NaN
+Adv. Rohan Bose,Intellectual Property,High Court of Bombay,11,Delhi,84,9876550051,rohan.bose@legaldemo.in,English,Hindi,NaN
+Adv. Advik Joshi,Intellectual Property,High Court of Delhi,11,Delhi,83,9876550052,advik.joshi@legaldemo.in,English,Hindi,NaN
+Adv. Priya Desai,Intellectual Property,High Court of Bombay,9,Delhi,76,9876550053,priya.desai@legaldemo.in,English,Hindi,NaN
+Adv. Dhruv Iyer,Intellectual Property,High Court of Bombay,11,Delhi,82,9876550054,dhruv.iyer@legaldemo.in,English,Hindi,NaN
+Adv. Sara Mishra,Intellectual Property,High Court of Madras,13,Delhi,92,9876550055,sara.mishra@legaldemo.in,English,Hindi,NaN
+Adv. Neha Desai,Intellectual Property,High Court of Delhi,16,Delhi,94,9876550056,neha.desai@legaldemo.in,English,Hindi,NaN
+Adv. Diya Khan,Intellectual Property,High Court of Delhi,16,Delhi,94,9876550057,diya.khan@legaldemo.in,English,Hindi,NaN
+Adv. Myra Rao,Tax Law (Direct & Indirect),GST Appellate Tribunal Delhi,16,Delhi,94,9876550058,myra.rao@legaldemo.in,English,Hindi,NaN
+Adv. Aryan Khan,Tax Law (Direct & Indirect),Income Tax Appellate Tribunal Hyderabad,11,Hyderabad,85,9876550059,aryan.khan@legaldemo.in,English,Telugu,Hindi
+Adv. Krish Patel,Tax Law (Direct & Indirect),Income Tax Appellate Tribunal Delhi,6,Delhi,69,9876550060,krish.patel@legaldemo.in,English,Hindi,NaN
+Adv. Kavya Sinha,Tax Law (Direct & Indirect),Income Tax Appellate Tribunal Mumbai,17,Mumbai,94,9876550061,kavya.sinha@legaldemo.in,English,Marathi,Hindi
+Adv. Riya Singh,Tax Law (Direct & Indirect),GST Appellate Tribunal Delhi,12,Delhi,89,9876550062,riya.singh@legaldemo.in,English,Hindi,NaN
+Adv. Advik Sharma,Tax Law (Direct & Indirect),Income Tax Appellate Tribunal Mumbai,16,Mumbai,94,9876550063,advik.sharma@legaldemo.in,English,Marathi,Hindi
+Adv. Yash Singh,Tax Law (Direct & Indirect),Income Tax Appellate Tribunal Delhi,10,Delhi,80,9876550064,yash.singh@legaldemo.in,English,Hindi,NaN
+Adv. Sara Menon,Tax Law (Direct & Indirect),Income Tax Appellate Tribunal Mumbai,12,Mumbai,84,9876550065,sara.menon@legaldemo.in,English,Marathi,Hindi
+Adv. Devansh Joshi,Tax Law (Direct & Indirect),High Court of Delhi,12,Delhi,87,9876550066,devansh.joshi@legaldemo.in,English,Hindi,NaN
+Adv. Arjun Desai,Tax Law (Direct & Indirect),Income Tax Appellate Tribunal Mumbai,18,Mumbai,94,9876550067,arjun.desai@legaldemo.in,English,Marathi,Hindi
+Adv. Ishaan Pillai,Cyber Crime & IT Act,District Court Pune,6,Pune,77,9876550068,ishaan.pillai@legaldemo.in,English,Marathi,Hindi
+Adv. Advik Chatterjee,Cyber Crime & IT Act,District Court Pune,16,Pune,91,9876550069,advik.chatterjee@legaldemo.in,English,Marathi,Hindi
+Adv. Neha Sinha,Cyber Crime & IT Act,District Court Pune,15,Pune,88,9876550070,neha.sinha@legaldemo.in,English,Marathi,Hindi
+Adv. Arjun Gupta,Cyber Crime & IT Act,District Court Pune,14,Pune,93,9876550071,arjun.gupta@legaldemo.in,English,Marathi,Hindi
+Adv. Rahul Mishra,Cyber Crime & IT Act,District Court Pune,16,Pune,94,9876550072,rahul.mishra@legaldemo.in,English,Marathi,Hindi
+Adv. Rahul Verma,Cyber Crime & IT Act,Cyber Crime Cell Hyderabad,7,Hyderabad,74,9876550073,rahul.verma@legaldemo.in,English,Telugu,Hindi
+Adv. Meera Chatterjee,Cyber Crime & IT Act,Cyber Crime Cell Bangalore,12,Bangalore,81,9876550074,meera.chatterjee@legaldemo.in,English,Kannada,Hindi
+Adv. Priya Gupta,Cyber Crime & IT Act,Cyber Crime Cell Hyderabad,13,Hyderabad,91,9876550075,priya.gupta@legaldemo.in,English,Telugu,Hindi
+Adv. Meera Kumar,Cyber Crime & IT Act,District Court Pune,15,Pune,91,9876550076,meera.kumar@legaldemo.in,English,Marathi,Hindi
+Adv. Meera Pillai,Cyber Crime & IT Act,Cyber Crime Cell Delhi,16,Delhi,94,9876550077,meera.pillai@legaldemo.in,English,Hindi,NaN
+Adv. Tanvi Bose,Cyber Crime & IT Act,District Court Pune,18,Pune,94,9876550078,tanvi.bose@legaldemo.in,English,Marathi,Hindi
+Adv. Rohan Chatterjee,Cyber Crime & IT Act,District Court Pune,6,Pune,75,9876550079,rohan.chatterjee@legaldemo.in,English,Marathi,Hindi
+Adv. Arnav Iyer,Insurance Claims,District Court Chennai,10,Chennai,78,9876550080,arnav.iyer@legaldemo.in,English,Tamil,NaN
+Adv. Kavya Desai,Insurance Claims,Motor Accident Claims Tribunal Hyderabad,6,Hyderabad,73,9876550081,kavya.desai@legaldemo.in,English,Telugu,Hindi
+Adv. Aditya Iyer,Insurance Claims,Motor Accident Claims Tribunal Hyderabad,15,Hyderabad,88,9876550082,aditya.iyer@legaldemo.in,English,Telugu,Hindi
+Adv. Karan Patel,Insurance Claims,District Court Chennai,14,Chennai,88,9876550083,karan.patel@legaldemo.in,English,Tamil,NaN
+Adv. Reyansh Bose,Insurance Claims,Motor Accident Claims Tribunal Hyderabad,10,Hyderabad,82,9876550084,reyansh.bose@legaldemo.in,English,Telugu,Hindi
+Adv. Devansh Reddy,Insurance Claims,District Court Chennai,15,Chennai,92,9876550085,devansh.reddy@legaldemo.in,English,Tamil,NaN
+Adv. Aaryan Pillai,Insurance Claims,Motor Accident Claims Tribunal Delhi,11,Delhi,86,9876550086,aaryan.pillai@legaldemo.in,English,Hindi,NaN
+Adv. Saanvi Gupta,Insurance Claims,Motor Accident Claims Tribunal Delhi,12,Delhi,90,9876550087,saanvi.gupta@legaldemo.in,English,Hindi,NaN
+Adv. Meera Reddy,Insurance Claims,Insurance Ombudsman Mumbai,5,Mumbai,79,9876550088,meera.reddy@legaldemo.in,English,Marathi,Hindi
+Adv. Aryan Joshi,Environmental Law,National Green Tribunal Delhi,8,Delhi,73,9876550089,aryan.joshi@legaldemo.in,English,Hindi,NaN
+Adv. Reyansh Joshi,Environmental Law,National Green Tribunal Chennai,10,Chennai,79,9876550090,reyansh.joshi@legaldemo.in,English,Tamil,NaN
+Adv. Zara Verma,Environmental Law,High Court of Telangana,16,Telangana,94,9876550091,zara.verma@legaldemo.in,English,Telugu,Hindi
+Adv. Reyansh Reddy,Environmental Law,National Green Tribunal Chennai,8,Chennai,73,9876550092,reyansh.reddy@legaldemo.in,English,Tamil,NaN
+Adv. Trisha Iyer,Environmental Law,National Green Tribunal Delhi,5,Delhi,71,9876550093,trisha.iyer@legaldemo.in,English,Hindi,NaN
+Adv. Aditya Sharma,Environmental Law,National Green Tribunal Delhi,9,Delhi,83,9876550094,aditya.sharma@legaldemo.in,English,Hindi,NaN
+Adv. Zara Sinha,Environmental Law,High Court of Telangana,6,Telangana,69,9876550095,zara.sinha@legaldemo.in,English,Telugu,Hindi
+Adv. Diya Patel,Environmental Law,National Green Tribunal Chennai,8,Chennai,73,9876550096,diya.patel@legaldemo.in,English,Tamil,NaN
+Adv. Ishita Bose,Environmental Law,National Green Tribunal Chennai,16,Chennai,92,9876550097,ishita.bose@legaldemo.in,English,Tamil,NaN
+Adv. Priya Bose,Environmental Law,National Green Tribunal Pune,14,Pune,87,9876550098,priya.bose@legaldemo.in,English,Marathi,Hindi
+Adv. Advik Bose,Human Rights & Public Interest Litigation,High Court of Karnataka,12,Karnataka,84,9876550099,advik.bose@legaldemo.in,English,Kannada,Hindi
+Adv. Neha Iyer,Human Rights & Public Interest Litigation,Supreme Court of India,18,India,94,9876550100,neha.iyer@legaldemo.in,English,Hindi,NaN
+Adv. Reyansh Mishra,Human Rights & Public Interest Litigation,High Court of Delhi,12,Delhi,87,9876550101,reyansh.mishra@legaldemo.in,English,Hindi,NaN
+Adv. Ishita Kumar,Human Rights & Public Interest Litigation,Supreme Court of India,7,India,76,9876550102,ishita.kumar@legaldemo.in,English,Hindi,NaN
+Adv. Ishaan Khan,Human Rights & Public Interest Litigation,High Court of Bombay,9,Delhi,75,9876550103,ishaan.khan@legaldemo.in,English,Hindi,NaN
+Adv. Vihaan Rao,Human Rights & Public Interest Litigation,High Court of Bombay,6,Delhi,69,9876550104,vihaan.rao@legaldemo.in,English,Hindi,NaN
+Adv. Saanvi Bose,Human Rights & Public Interest Litigation,High Court of Delhi,14,Delhi,89,9876550105,saanvi.bose@legaldemo.in,English,Hindi,NaN
+Adv. Ananya Chatterjee,Human Rights & Public Interest Litigation,Supreme Court of India,6,India,71,9876550106,ananya.chatterjee@legaldemo.in,English,Hindi,NaN
+Adv. Priya Sharma,Human Rights & Public Interest Litigation,High Court of Karnataka,8,Karnataka,78,9876550107,priya.sharma@legaldemo.in,English,Kannada,Hindi
+Adv. Rahul Gupta,Human Rights & Public Interest Litigation,High Court of Karnataka,7,Karnataka,71,9876550108,rahul.gupta@legaldemo.in,English,Kannada,Hindi
+Adv. Sara Desai,Human Rights & Public Interest Litigation,High Court of Karnataka,6,Karnataka,69,9876550109,sara.desai@legaldemo.in,English,Kannada,Hindi
+Adv. Aryan Mishra,Arbitration & Mediation,High Court of Delhi,8,Delhi,81,9876550110,aryan.mishra@legaldemo.in,English,Hindi,NaN
+Adv. Kavya Khan,Arbitration & Mediation,Arbitration Centre Mumbai,13,Mumbai,83,9876550111,kavya.khan@legaldemo.in,English,Marathi,Hindi
+Adv. Advik Menon,Arbitration & Mediation,High Court of Delhi,8,Delhi,83,9876550112,advik.menon@legaldemo.in,English,Hindi,NaN
+Adv. Trisha Khan,Arbitration & Mediation,Arbitration Centre Mumbai,16,Mumbai,94,9876550113,trisha.khan@legaldemo.in,English,Marathi,Hindi
+Adv. Nikhil Singh,Arbitration & Mediation,High Court of Delhi,4,Delhi,76,9876550114,nikhil.singh@legaldemo.in,English,Hindi,NaN
+Adv. Ishaan Bose,Arbitration & Mediation,High Court of Bombay,16,Delhi,94,9876550115,ishaan.bose@legaldemo.in,English,Hindi,NaN
+Adv. Advik Agarwal,Arbitration & Mediation,High Court of Bombay,16,Delhi,94,9876550116,advik.agarwal@legaldemo.in,English,Hindi,NaN
+Adv. Aryan Sharma,Arbitration & Mediation,Arbitration Centre Mumbai,4,Mumbai,67,9876550117,aryan.sharma@legaldemo.in,English,Marathi,Hindi
+Adv. Dhruv Khan,Arbitration & Mediation,Arbitration Centre Bangalore,17,Bangalore,94,9876550118,dhruv.khan@legaldemo.in,English,Kannada,Hindi
+Adv. Arjun Sharma,Arbitration & Mediation,High Court of Bombay,14,Delhi,93,9876550119,arjun.sharma@legaldemo.in,English,Hindi,NaN
+Adv. Karan Joshi,Arbitration & Mediation,Arbitration Centre Mumbai,4,Mumbai,72,9876550120,karan.joshi@legaldemo.in,English,Marathi,Hindi
+Adv. Pooja Reddy,Real Estate & RERA,District Court Pune,14,Pune,93,9876550121,pooja.reddy@legaldemo.in,English,Marathi,Hindi
+Adv. Neha Joshi,Real Estate & RERA,RERA Tribunal Telangana,16,Telangana,90,9876550122,neha.joshi@legaldemo.in,English,Telugu,Hindi
+Adv. Shaurya Chatterjee,Real Estate & RERA,RERA Tribunal Karnataka,11,Karnataka,85,9876550123,shaurya.chatterjee@legaldemo.in,English,Kannada,Hindi
+Adv. Neha Menon,Real Estate & RERA,RERA Tribunal Telangana,16,Telangana,89,9876550124,neha.menon@legaldemo.in,English,Telugu,Hindi
+Adv. Trisha Singh,Real Estate & RERA,District Court Pune,9,Pune,79,9876550125,trisha.singh@legaldemo.in,English,Marathi,Hindi
+Adv. Nikhil Agarwal,Real Estate & RERA,RERA Tribunal Karnataka,6,Karnataka,69,9876550126,nikhil.agarwal@legaldemo.in,English,Kannada,Hindi
+Adv. Arjun Mishra,Real Estate & RERA,RERA Tribunal Delhi NCR,8,Delhi,83,9876550127,arjun.mishra@legaldemo.in,English,Hindi,NaN
+Adv. Aanya Bose,Real Estate & RERA,RERA Tribunal Telangana,8,Telangana,80,9876550128,aanya.bose@legaldemo.in,English,Telugu,Hindi
+Adv. Aditya Nair,Real Estate & RERA,RERA Tribunal Delhi NCR,18,Delhi,94,9876550129,aditya.nair@legaldemo.in,English,Hindi,NaN
+Adv. Arnav Agarwal,Immigration & Passport Matters,High Court of Bombay,5,Delhi,69,9876550130,arnav.agarwal@legaldemo.in,English,Hindi,NaN
+Adv. Vivaan Singh,Immigration & Passport Matters,High Court of Bombay,13,Delhi,93,9876550131,vivaan.singh@legaldemo.in,English,Hindi,NaN
+Adv. Diya Desai,Immigration & Passport Matters,High Court of Bombay,7,Delhi,78,9876550132,diya.desai@legaldemo.in,English,Hindi,NaN
+Adv. Kabir Sharma,Immigration & Passport Matters,District Court Chennai,6,Chennai,69,9876550133,kabir.sharma@legaldemo.in,English,Tamil,NaN
+Adv. Priya Khan,Immigration & Passport Matters,District Court Chennai,8,Chennai,84,9876550134,priya.khan@legaldemo.in,English,Tamil,NaN
+Adv. Anika Desai,Immigration & Passport Matters,Foreigners Regional Registration Office Delhi,10,Delhi,82,9876550135,anika.desai@legaldemo.in,English,Hindi,NaN
+Adv. Aaryan Sharma,Immigration & Passport Matters,High Court of Delhi,9,Delhi,87,9876550136,aaryan.sharma@legaldemo.in,English,Hindi,NaN
+Adv. Kabir Nair,Immigration & Passport Matters,High Court of Bombay,18,Delhi,94,9876550137,kabir.nair@legaldemo.in,English,Hindi,NaN
+Adv. Aanya Joshi,Immigration & Passport Matters,High Court of Delhi,9,Delhi,76,9876550138,aanya.joshi@legaldemo.in,English,Hindi,NaN
+Adv. Saanvi Agarwal,Immigration & Passport Matters,District Court Chennai,5,Chennai,72,9876550139,saanvi.agarwal@legaldemo.in,English,Tamil,NaN
+Adv. Arjun Joshi,Medical Negligence,District Court Mumbai,5,Mumbai,67,9876550140,arjun.joshi@legaldemo.in,English,Marathi,Hindi
+Adv. Zara Rao,Medical Negligence,District Court Mumbai,12,Mumbai,86,9876550141,zara.rao@legaldemo.in,English,Marathi,Hindi
+Adv. Vivaan Rao,Medical Negligence,Consumer Forum Hyderabad,18,Hyderabad,93,9876550142,vivaan.rao@legaldemo.in,English,Telugu,Hindi
+Adv. Rahul Pillai,Medical Negligence,High Court of Karnataka,7,Karnataka,82,9876550143,rahul.pillai@legaldemo.in,English,Kannada,Hindi
+Adv. Arjun Rao,Medical Negligence,Consumer Forum Delhi,11,Delhi,88,9876550144,arjun.rao@legaldemo.in,English,Hindi,NaN
+Adv. Aanya Mishra,Medical Negligence,Consumer Forum Hyderabad,4,Hyderabad,73,9876550145,aanya.mishra@legaldemo.in,English,Telugu,Hindi
+Adv. Krish Mishra,Medical Negligence,Consumer Forum Hyderabad,10,Hyderabad,82,9876550146,krish.mishra@legaldemo.in,English,Telugu,Hindi
+Adv. Ishita Joshi,Medical Negligence,District Court Mumbai,15,Mumbai,94,9876550147,ishita.joshi@legaldemo.in,English,Marathi,Hindi
+Adv. Kabir Iyer,Medical Negligence,District Court Mumbai,8,Mumbai,80,9876550148,kabir.iyer@legaldemo.in,English,Marathi,Hindi
+Adv. Sara Bose,Medical Negligence,High Court of Karnataka,18,Karnataka,94,9876550149,sara.bose@legaldemo.in,English,Kannada,Hindi
+Adv. Rahul Iyer,Medical Negligence,High Court of Karnataka,11,Karnataka,84,9876550150,rahul.iyer@legaldemo.in,English,Kannada,Hindi
+Adv. Reyansh Singh,Medical Negligence,High Court of Karnataka,12,Karnataka,84,9876550151,reyansh.singh@legaldemo.in,English,Kannada,Hindi
+Adv. Myra Gupta,Constitutional Law,Supreme Court of India,12,India,82,9876550152,myra.gupta@legaldemo.in,English,Hindi,NaN
+Adv. Tanvi Desai,Constitutional Law,High Court of Bombay,8,Delhi,85,9876550153,tanvi.desai@legaldemo.in,English,Hindi,NaN
+Adv. Anika Khan,Constitutional Law,High Court of Madras,10,Delhi,88,9876550154,anika.khan@legaldemo.in,English,Hindi,NaN
+Adv. Zara Gupta,Constitutional Law,High Court of Madras,16,Delhi,89,9876550155,zara.gupta@legaldemo.in,English,Hindi,NaN
+Adv. Zara Agarwal,Constitutional Law,High Court of Karnataka,9,Karnataka,77,9876550156,zara.agarwal@legaldemo.in,English,Kannada,Hindi
+Adv. Yash Kumar,Constitutional Law,High Court of Madras,5,Delhi,71,9876550157,yash.kumar@legaldemo.in,English,Hindi,NaN
+Adv. Saanvi Khan,Constitutional Law,High Court of Delhi,14,Delhi,92,9876550158,saanvi.khan@legaldemo.in,English,Hindi,NaN
+Adv. Ishita Sharma,Constitutional Law,High Court of Karnataka,6,Karnataka,69,9876550159,ishita.sharma@legaldemo.in,English,Kannada,Hindi
+Adv. Neha Agarwal,Constitutional Law,High Court of Karnataka,11,Karnataka,79,9876550160,neha.agarwal@legaldemo.in,English,Kannada,Hindi
+Adv. Kabir Bose,Constitutional Law,Supreme Court of India,17,India,94,9876550161,kabir.bose@legaldemo.in,English,Hindi,NaN
+Adv. Yash Nair,POCSO & Juvenile Justice,District Court Hyderabad,17,Hyderabad,94,9876550162,yash.nair@legaldemo.in,English,Telugu,Hindi
+Adv. Aryan Pillai,POCSO & Juvenile Justice,Juvenile Justice Board Bangalore,16,Bangalore,89,9876550163,aryan.pillai@legaldemo.in,English,Kannada,Hindi
+Adv. Ishaan Iyer,POCSO & Juvenile Justice,District Court Delhi,13,Delhi,83,9876550164,ishaan.iyer@legaldemo.in,English,Hindi,NaN
+Adv. Yash Rao,POCSO & Juvenile Justice,District Court Mumbai,15,Mumbai,94,9876550165,yash.rao@legaldemo.in,English,Marathi,Hindi
+Adv. Dhruv Reddy,POCSO & Juvenile Justice,District Court Delhi,8,Delhi,81,9876550166,dhruv.reddy@legaldemo.in,English,Hindi,NaN
+Adv. Rohan Khan,POCSO & Juvenile Justice,District Court Chennai,8,Chennai,76,9876550167,rohan.khan@legaldemo.in,English,Tamil,NaN
+Adv. Pooja Menon,POCSO & Juvenile Justice,District Court Chennai,11,Chennai,83,9876550168,pooja.menon@legaldemo.in,English,Tamil,NaN
+Adv. Tanvi Mishra,POCSO & Juvenile Justice,District Court Mumbai,12,Mumbai,84,9876550169,tanvi.mishra@legaldemo.in,English,Marathi,Hindi
+Adv. Anika Menon,POCSO & Juvenile Justice,District Court Chennai,4,Chennai,65,9876550170,anika.menon@legaldemo.in,English,Tamil,NaN
+Adv. Karan Rao,POCSO & Juvenile Justice,District Court Hyderabad,5,Hyderabad,71,9876550171,karan.rao@legaldemo.in,English,Telugu,Hindi
+Adv. Reyansh Desai,POCSO & Juvenile Justice,District Court Hyderabad,7,Hyderabad,78,9876550172,reyansh.desai@legaldemo.in,English,Telugu,Hindi
+Adv. Aaryan Rao,POCSO & Juvenile Justice,District Court Delhi,9,Delhi,85,9876550173,aaryan.rao@legaldemo.in,English,Hindi,NaN
+Adv. Rohan Iyer,Anti-Corruption & Vigilance,CBI Special Court Hyderabad,11,Hyderabad,82,9876550174,rohan.iyer@legaldemo.in,English,Telugu,Hindi
+Adv. Aanya Nair,Anti-Corruption & Vigilance,CBI Special Court Mumbai,13,Mumbai,90,9876550175,aanya.nair@legaldemo.in,English,Marathi,Hindi
+Adv. Shaurya Mishra,Anti-Corruption & Vigilance,CBI Special Court Hyderabad,10,Hyderabad,87,9876550176,shaurya.mishra@legaldemo.in,English,Telugu,Hindi
+Adv. Sara Sharma,Anti-Corruption & Vigilance,CBI Special Court Delhi,13,Delhi,85,9876550177,sara.sharma@legaldemo.in,English,Hindi,NaN
+Adv. Arjun Verma,Anti-Corruption & Vigilance,Anti-Corruption Bureau Court Bangalore,6,Bangalore,75,9876550178,arjun.verma@legaldemo.in,English,Kannada,Hindi
+Adv. Devansh Nair,Anti-Corruption & Vigilance,Anti-Corruption Bureau Court Bangalore,5,Bangalore,69,9876550179,devansh.nair@legaldemo.in,English,Kannada,Hindi
+Adv. Yash Chatterjee,Anti-Corruption & Vigilance,CBI Special Court Mumbai,4,Mumbai,69,9876550180,yash.chatterjee@legaldemo.in,English,Marathi,Hindi
+Adv. Vivaan Gupta,Anti-Corruption & Vigilance,Anti-Corruption Bureau Court Bangalore,11,Bangalore,81,9876550181,vivaan.gupta@legaldemo.in,English,Kannada,Hindi
+Adv. Riya Rao,Anti-Corruption & Vigilance,CBI Special Court Delhi,18,Delhi,94,9876550182,riya.rao@legaldemo.in,English,Hindi,NaN
+Adv. Ishita Rao,Anti-Corruption & Vigilance,CBI Special Court Hyderabad,5,Hyderabad,67,9876550183,ishita.rao@legaldemo.in,English,Telugu,Hindi
+Adv. Pooja Chatterjee,Anti-Corruption & Vigilance,Anti-Corruption Bureau Court Bangalore,7,Bangalore,76,9876550184,pooja.chatterjee@legaldemo.in,English,Kannada,Hindi
+Adv. Neha Sharma,Anti-Corruption & Vigilance,CBI Special Court Mumbai,14,Mumbai,91,9876550185,neha.sharma@legaldemo.in,English,Marathi,Hindi
+Adv. Ananya Khan,Company / Insolvency (NCLT-NCLAT),NCLAT Delhi,4,Delhi,72,9876550186,ananya.khan@legaldemo.in,English,Hindi,NaN
+Adv. Trisha Gupta,Company / Insolvency (NCLT-NCLAT),NCLT Hyderabad,9,Hyderabad,79,9876550187,trisha.gupta@legaldemo.in,English,Telugu,Hindi
+Adv. Nikhil Verma,Company / Insolvency (NCLT-NCLAT),NCLT Delhi,8,Delhi,84,9876550188,nikhil.verma@legaldemo.in,English,Hindi,NaN
+Adv. Aarav Sinha,Company / Insolvency (NCLT-NCLAT),NCLT Delhi,18,Delhi,94,9876550189,aarav.sinha@legaldemo.in,English,Hindi,NaN
+Adv. Advik Iyer,Company / Insolvency (NCLT-NCLAT),NCLT Hyderabad,5,Hyderabad,74,9876550190,advik.iyer@legaldemo.in,English,Telugu,Hindi
+Adv. Saanvi Joshi,Company / Insolvency (NCLT-NCLAT),NCLAT Delhi,18,Delhi,94,9876550191,saanvi.joshi@legaldemo.in,English,Hindi,NaN
+Adv. Ishaan Mishra,Company / Insolvency (NCLT-NCLAT),NCLAT Delhi,6,Delhi,69,9876550192,ishaan.mishra@legaldemo.in,English,Hindi,NaN
+Adv. Tanvi Gupta,Company / Insolvency (NCLT-NCLAT),NCLT Delhi,17,Delhi,94,9876550193,tanvi.gupta@legaldemo.in,English,Hindi,NaN
+Adv. Vivaan Sinha,Company / Insolvency (NCLT-NCLAT),NCLAT Delhi,5,Delhi,75,9876550194,vivaan.sinha@legaldemo.in,English,Hindi,NaN
+Adv. Kabir Patel,Company / Insolvency (NCLT-NCLAT),NCLT Mumbai,7,Mumbai,77,9876550195,kabir.patel@legaldemo.in,English,Marathi,Hindi
