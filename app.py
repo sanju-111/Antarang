@@ -175,7 +175,7 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
-# Grid Layout of All 5 Key Modules
+# Grid Layout of All 6 Modules
 r1_c1, r1_c2, r1_c3 = st.columns(3)
 
 with r1_c1:
