@@ -1,4 +1,4 @@
-# pages/3_👨‍⚖️_Find_My_Advocate.py - ANTARANG Lawyer Recommendation Engine
+# pages/3_Find_My_Advocate.py - ANTARANG Lawyer Recommendation Engine
 import streamlit as st
 import pandas as pd
 import sys
@@ -6,8 +6,12 @@ import os
 
 # Ensure root is in sys.path
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'models')))
 
-from models.lawyer_recommendation import LawyerRecommendationEngine
+try:
+    from models.lawyer_recommendation import LawyerRecommendationEngine
+except ImportError:
+    from lawyer_recommendation import LawyerRecommendationEngine
 
 st.set_page_config(
     page_title="ANTARANG - Find My Advocate",

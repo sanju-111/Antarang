@@ -1,13 +1,17 @@
-# pages/1_⚖️_Mediation_Predictor.py - ANTARANG Mediation Eligibility Predictor
+# pages/1_Mediation_Predictor.py - ANTARANG Mediation Eligibility Predictor
 import streamlit as st
 import pandas as pd
 import sys
 import os
 
-# Ensure root is in sys.path
+# Ensure root and models are in sys.path
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'models')))
 
-from models.predict_simple import SimpleMediationPredictor
+try:
+    from models.predict_simple import SimpleMediationPredictor
+except ImportError:
+    from predict_simple import SimpleMediationPredictor
 
 st.set_page_config(
     page_title="ANTARANG - Mediation Predictor",

@@ -1,13 +1,17 @@
-# pages/2_📋_Documents_Checklist.py - ANTARANG Documents Checklist
+# pages/2_Documents_Checklist.py - ANTARANG Documents Checklist
 import streamlit as st
 import pandas as pd
 import sys
 import os
 
-# Ensure root is in sys.path
+# Ensure root and models are in sys.path
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'models')))
 
-from models.predict_documents import DocumentPredictor
+try:
+    from models.predict_documents import DocumentPredictor
+except ImportError:
+    from predict_documents import DocumentPredictor
 
 # Page Configuration
 st.set_page_config(

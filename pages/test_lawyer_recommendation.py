@@ -1,14 +1,19 @@
+# pages/test_lawyer_recommendation.py
 import streamlit as st
 import pandas as pd
 import sys
 import os
 
-# Ensure root is in sys.path
+# Ensure root and models are in sys.path
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'models')))
 
-from models.lawyer_recommendation import LawyerRecommendationEngine
+try:
+    from models.lawyer_recommendation import LawyerRecommendationEngine
+except ImportError:
+    from lawyer_recommendation import LawyerRecommendationEngine
 
-# Initialize the engine (automatically finds data/lawyer_dataset.csv)
+# Initialize the engine
 engine = LawyerRecommendationEngine()
 
 # Title

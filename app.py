@@ -3,6 +3,9 @@ import streamlit as st
 import os
 import sys
 
+# Ensure root directory is in sys.path
+sys.path.insert(0, os.path.abspath(os.path.dirname(__file__)))
+
 # Page Configuration
 st.set_page_config(
     page_title="ANTARANG - Justice Decoded",
@@ -176,7 +179,7 @@ with col1:
         </div>
     </div>
     """, unsafe_allow_html=True)
-    st.page_link("pages/1_⚖️_Mediation_Predictor.py", label="Launch Mediation Predictor →", icon="⚖️", use_container_width=True)
+    st.page_link("pages/1_Mediation_Predictor.py", label="Launch Mediation Predictor →", icon="⚖️", use_container_width=True)
 
 with col2:
     st.markdown("""
@@ -190,7 +193,7 @@ with col2:
         </div>
     </div>
     """, unsafe_allow_html=True)
-    st.page_link("pages/2_📋_Documents_Checklist.py", label="Open Documents Checklist →", icon="📋", use_container_width=True)
+    st.page_link("pages/2_Documents_Checklist.py", label="Open Documents Checklist →", icon="📋", use_container_width=True)
 
 with col3:
     st.markdown("""
@@ -204,7 +207,7 @@ with col3:
         </div>
     </div>
     """, unsafe_allow_html=True)
-    st.page_link("pages/3_👨‍⚖️_Find_My_Advocate.py", label="Find Legal Advocate →", icon="👨‍⚖️", use_container_width=True)
+    st.page_link("pages/3_Find_My_Advocate.py", label="Find Legal Advocate →", icon="👨‍⚖️", use_container_width=True)
 
 # System Metrics Bar
 st.markdown("""
