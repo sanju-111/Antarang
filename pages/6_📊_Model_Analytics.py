@@ -81,7 +81,7 @@ with tab1:
                 title="Gini Feature Importance"
             )
             fig.update_layout(height=380, margin=dict(l=10, r=10, t=30, b=10))
-            st.plotly_chart(fig, use_container_width=True)
+            st.plotly_chart(fig, width='stretch')
 
         with c2:
             st.markdown("#### Feature Explanations")
@@ -114,7 +114,7 @@ with tab3:
             color_discrete_sequence=['#4338ca']
         )
         fig_hist.update_layout(height=320)
-        st.plotly_chart(fig_hist, use_container_width=True)
+        st.plotly_chart(fig_hist, width='stretch')
 
     with col_d2:
         case_counts = df['caseType'].value_counts().reset_index()
@@ -127,7 +127,7 @@ with tab3:
             hole=0.4
         )
         fig_cases.update_layout(height=320)
-        st.plotly_chart(fig_cases, use_container_width=True)
+        st.plotly_chart(fig_cases, width='stretch')
 
 st.markdown("""
 <div class="footer-note">

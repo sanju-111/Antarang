@@ -196,7 +196,7 @@ with col_output:
         }
     ))
     gauge_fig.update_layout(height=230, margin=dict(l=20, r=20, t=30, b=10))
-    st.plotly_chart(gauge_fig, use_container_width=True)
+    st.plotly_chart(gauge_fig, width='stretch')
 
 # Feature Importance Breakdown
 st.markdown("---")
@@ -217,7 +217,7 @@ if importance_df is not None:
             text=importance_df['Importance'].apply(lambda x: f'{x*100:.1f}%')
         )
         fig.update_layout(height=280, showlegend=False, margin=dict(l=10, r=10, t=10, b=10))
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width='stretch')
     with f_col2:
         st.info("""
         **💡 Triage Observations:**

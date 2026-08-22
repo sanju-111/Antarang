@@ -89,6 +89,7 @@ st.markdown("""
 def load_data():
     """Load cleaned dataset from data/ folder or root"""
     data_paths = [
+        os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data', 'cleaned_cases_antarang.csv'),
         os.path.join('data', 'cleaned_cases_antarang.csv'),
         os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'data', 'cleaned_cases_antarang.csv'),
         'cleaned_cases_antarang.csv'
@@ -220,7 +221,7 @@ def show_court_load_dashboard():
             annotation_position="bottom right"
         )
         fig.update_layout(xaxis_tickangle=-45, height=420, margin=dict(l=10, r=10, t=40, b=80))
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width='stretch')
     
     with tab2:
         st.markdown("#### Court Performance Details")
@@ -281,7 +282,7 @@ def show_court_load_dashboard():
                 title='Court Distribution by Load Status'
             )
             fig_pie.update_layout(height=350)
-            st.plotly_chart(fig_pie, use_container_width=True)
+            st.plotly_chart(fig_pie, width='stretch')
         
         with col2:
             st.markdown("#### 🔴 Top High Pendency Courts")
