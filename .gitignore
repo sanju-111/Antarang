@@ -1,23 +1,35 @@
-# Python
+# ── Python ────────────────────────────────────────────────
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
 .Python
+
+# ── Virtual Environments ───────────────────────────────────
 env/
 venv/
 .venv/
 ENV/
 
-# Streamlit
+# ── Streamlit ──────────────────────────────────────────────
 .streamlit/
 
-# IDE & OS
+# ── IDE & OS ───────────────────────────────────────────────
 .vscode/
 .idea/
 .DS_Store
 Thumbs.db
 *.bak
 
-# Root level loose files
+# ── Duplicate / stale image assets ────────────────────────
+pages/logo.png
+models/model_performance.png
+
+# ── Root-level loose data files ────────────────────────────
 /mediation_dataset_20cols.csv
+
+# ── Trained model binaries (large) ─────────────────────────
+# NOTE: .pkl files are intentionally kept tracked so the app
+# runs without re-training. If you switch to DVC/MLflow,
+# uncomment the lines below and manage models externally.
+# *.pkl
