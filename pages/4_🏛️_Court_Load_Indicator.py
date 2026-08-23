@@ -35,6 +35,8 @@ except ImportError:
         calculate_overall_efficiency_score
     )
 
+from utils.helpers import inject_custom_css
+
 # Page Configuration
 st.set_page_config(
     page_title="Court Load Indicator | Antarang",
@@ -42,48 +44,21 @@ st.set_page_config(
     layout="wide"
 )
 
-# Custom Styling
+inject_custom_css()
+
+try:
+    st.page_link("app.py", label="← Back to Portal", icon="🏛️")
+except Exception:
+    pass
+
 st.markdown("""
-<style>
-    @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap');
-    
-    .stApp {
-        font-family: 'Plus Jakarta Sans', sans-serif;
-    }
-    
-    h1, h2, h3, h4, h5, h6 {
-        font-family: 'Outfit', sans-serif;
-        font-weight: 700;
-    }
-    
-    .badge-red {
-        background-color: #fee2e2;
-        color: #991b1b;
-        padding: 4px 10px;
-        border-radius: 12px;
-        font-size: 12px;
-        font-weight: 600;
-    }
-    
-    .badge-green {
-        background-color: #dcfce7;
-        color: #166534;
-        padding: 4px 10px;
-        border-radius: 12px;
-        font-size: 12px;
-        font-weight: 600;
-    }
-    
-    .badge-yellow {
-        background-color: #fef3c7;
-        color: #92400e;
-        padding: 4px 10px;
-        border-radius: 12px;
-        font-size: 12px;
-        font-weight: 600;
-    }
-</style>
+<div class="main-header">
+    <div class="hero-badge">Judiciary Capacity Engine</div>
+    <h1>🏛️ Court Load Indicator & Pendency Analytics</h1>
+    <p>Real-time pendency monitoring, court throughput analysis & bottleneck identification against national benchmarks</p>
+</div>
 """, unsafe_allow_html=True)
+
 
 @st.cache_data
 def load_data():
@@ -187,7 +162,7 @@ def show_court_load_dashboard():
     
     st.dataframe(
         styler,
-        use_container_width=True,
+        width='stretch',
         height=380
     )
     st.caption(f"Showing {len(filtered)} of {len(court_stats)} courts")
@@ -322,8 +297,9 @@ def show_court_load_dashboard():
         data=csv,
         file_name="court_load_data.csv",
         mime="text/csv",
-        use_container_width=True
+        width="stretch"
     )
 
 if __name__ == "__main__":
     show_court_load_dashboard()
+

@@ -13,6 +13,8 @@ try:
 except ImportError:
     from predict_documents import DocumentPredictor
 
+from utils.helpers import inject_custom_css
+
 # Page Configuration
 st.set_page_config(
     page_title="ANTARANG - Documents Checklist",
@@ -20,115 +22,21 @@ st.set_page_config(
     layout="wide"
 )
 
-# Custom CSS - Black, White & Gold Theme
-st.markdown("""
-<style>
-    .stApp { background-color: #0a0a0a; color: #f5f5f5; }
-    
-    .gold-glow {
-        background: radial-gradient(ellipse at 50% 0%, rgba(212,175,55,0.08) 0%, transparent 70%);
-        position: fixed; top: 0; left: 0; right: 0; height: 400px;
-        pointer-events: none; z-index: 0;
-    }
-    
-    .header-container {
-        padding: 2rem 0 1rem 0;
-        border-bottom: 1px solid rgba(212,175,55,0.15);
-        position: relative; z-index: 1;
-        text-align: center;
-    }
-    
-    .brand-title {
-        font-size: 2.8rem;
-        font-weight: 700;
-        background: linear-gradient(135deg, #D4AF37 0%, #F4E4A0 50%, #D4AF37 100%);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        letter-spacing: 4px;
-        text-transform: uppercase;
-    }
-    
-    .brand-subtitle {
-        color: rgba(255,255,255,0.6);
-        font-size: 0.9rem;
-        letter-spacing: 6px;
-        margin-top: -8px;
-    }
-    
-    .gold-line {
-        height: 2px;
-        background: linear-gradient(90deg, transparent 0%, #D4AF37 20%, #D4AF37 80%, transparent 100%);
-        width: 60%;
-        margin: 0.8rem auto;
-        opacity: 0.3;
-    }
-    
-    .card-container {
-        background: rgba(255,255,255,0.03);
-        border: 1px solid rgba(212,175,55,0.15);
-        border-radius: 16px;
-        padding: 2rem;
-        backdrop-filter: blur(10px);
-        margin-bottom: 2rem;
-    }
-    
-    .section-title {
-        color: #D4AF37;
-        font-size: 1.5rem;
-        font-weight: 500;
-        letter-spacing: 2px;
-        margin-bottom: 1.5rem;
-        border-bottom: 1px solid rgba(212,175,55,0.15);
-        padding-bottom: 0.8rem;
-    }
-    
-    .doc-item {
-        padding: 0.8rem 1.2rem;
-        margin-bottom: 0.6rem;
-        background: rgba(255,255,255,0.04);
-        border-left: 4px solid #D4AF37;
-        border-radius: 6px;
-        color: rgba(255,255,255,0.9);
-        transition: all 0.2s ease;
-    }
-    
-    .doc-item:hover {
-        background: rgba(212,175,55,0.08);
-        border-left-color: #F4E4A0;
-        padding-left: 1.5rem;
-    }
-    
-    .info-box {
-        background: rgba(212,175,55,0.05);
-        border: 1px solid rgba(212,175,55,0.15);
-        border-radius: 12px;
-        padding: 1.2rem;
-        margin: 1.5rem 0;
-        color: rgba(255,255,255,0.85);
-    }
-    
-    .footer {
-        text-align: center;
-        padding: 2rem 0;
-        border-top: 1px solid rgba(212,175,55,0.1);
-        color: rgba(255,255,255,0.4);
-        font-size: 0.75rem;
-        letter-spacing: 2px;
-    }
-    
-    .footer span {
-        color: #D4AF37;
-    }
-</style>
+inject_custom_css()
 
-<div class="gold-glow"></div>
-<div class="header-container">
-    <div style="font-size: 2.8rem; color: #D4AF37;">📋</div>
-    <div class="brand-title">ANTARANG</div>
-    <div class="brand-subtitle">⚜️ CASE DOCUMENTS CHECKLIST ⚜️</div>
-    <div class="gold-line"></div>
+try:
+    st.page_link("app.py", label="← Back to Portal", icon="🏛️")
+except Exception:
+    pass
+
+st.markdown("""
+<div class="main-header">
+    <div class="hero-badge">Statutory Filing Suite</div>
+    <h1>📋 Statutory Case Documents Checklist</h1>
+    <p>Dynamic court filing checklist, mandatory petitions, annexures, notarization rules, and stamp duties</p>
 </div>
 """, unsafe_allow_html=True)
+
 
 # Load predictor
 @st.cache_resource
@@ -142,28 +50,21 @@ except Exception as e:
     predictor_loaded = False
     st.error(f"⚠️ Could not load document mappings: {e}")
 
-col1, col2, col3 = st.columns([1, 10, 1])
-
-with col2:
-    if predictor_loaded:
-        # Search Section
-        with st.container():
-            st.markdown('<div class="card-container">', unsafe_allow_html=True)
-            st.markdown('<p class="section-title">⚜️ Select Case Type</p>', unsafe_allow_html=True)
-            
-            selected_case = st.selectbox(
-                "Choose the legal dispute category",
-                predictor.case_types,
-                help="Select your case category to see all mandatory and optional legal documents"
-            )
-            
-            st.markdown('</div>', unsafe_allow_html=True)
+if predictor_loaded:
+    # Search Section
+    with st.container(border=True):
+        st.markdown('<p class="section-title">⚜️ Select Case Type</p>', unsafe_allow_html=True)
         
-        # Documents Display
-        doc_data = predictor.get_documents(selected_case)
-        
-        if doc_data:
-            st.markdown('<div class="card-container">', unsafe_allow_html=True)
+        selected_case = st.selectbox(
+            "Choose the legal dispute category",
+            predictor.case_types,
+            help="Select your case category to see all mandatory and optional legal documents"
+        )
+    # Documents Display
+    doc_data = predictor.get_documents(selected_case)
+    
+    if doc_data:
+        with st.container(border=True):
             st.markdown('<p class="section-title">⚜️ Document Requirements</p>', unsafe_allow_html=True)
             
             # Case Info
@@ -264,11 +165,11 @@ with col2:
                 data=csv_data,
                 file_name=f"{selected_case.replace(' ', '_')}_checklist.csv",
                 mime="text/csv",
-                use_container_width=True
+                width="stretch"
             )
             st.markdown('</div>', unsafe_allow_html=True)
             
-            st.markdown('</div>', unsafe_allow_html=True)
+
 
 # Footer
 st.markdown("""

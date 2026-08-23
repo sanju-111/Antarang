@@ -33,6 +33,11 @@ st.set_page_config(
 
 inject_custom_css()
 
+try:
+    st.page_link("app.py", label="← Back to Portal", icon="🏛️")
+except Exception:
+    pass
+
 # Header Banner
 st.markdown("""
 <div class="main-header">
@@ -90,7 +95,7 @@ with col_input:
             horizontal=True
         )
 
-        predict_btn = st.button("🔮 Forecast Duration", type="primary", use_container_width=True)
+        predict_btn = st.button("🔮 Forecast Duration", type="primary", width="stretch")
 
 # Process Prediction
 filing_month = filing_date.month
